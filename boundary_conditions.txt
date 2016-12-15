@@ -1,0 +1,40 @@
+Values from throughflow calculations in AxCent
+
+span: Normalized span	[-]
+p0: Total Pressure in a stationary frame of reference [kPa]
+t0: Total Temperature in a stationary frame of reference  [K]
+alpha: swirl angle in degrees (stationary coordinate system)
+The swirl angle is here defined as positive in the direction opposite to that of the rotational direction of the rotors
+
+Suggested approach to obtain a radial distribution of the variables is to fit a second order polynomial to the values given below
+
+
+IGV inlet
+span	p0		t0		alpha
+100	47.9000		282.400		0.0000
+50	47.9000		282.400		0.0000
+0	47.9000		282.400		0.0000
+
+Rotor 1 inlet
+span	p0		t0		alpha
+100	47.8160		282.400		-18.000
+50	47.7743		282.400		-10.000
+0	47.6945		282.400		0.0000
+
+Rotor 2 inlet
+span	p0		t0		alpha
+100	72.3502		320.965		-17.7352
+50	72.3208		320.660		-17.9800
+0	72.2861		320.600		-16.1860
+
+Rotor 3 inlet
+span	p0		t0		alpha
+100	101.785		356.560		-17.0400
+50	101.738		355.986		-16.0500
+0	101.684		355.826		-15.7700
+
+Stator 3 outlet
+span	p0		t0		alpha
+100	133.130		387.953		8.0000
+50	133.022		387.24		8.0400
+0	132.899		386.966		8.5400
