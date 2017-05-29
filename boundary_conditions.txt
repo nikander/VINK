@@ -6,6 +6,8 @@ t0: Total Temperature in a stationary frame of reference  [K]
 alpha: swirl angle in degrees (stationary coordinate system)
 The swirl angle is here defined as positive in the direction opposite to that of the rotational direction of the rotors
 
+Design rotational speed: 6242 rpm
+
 Suggested approach to obtain a radial distribution of the variables is to fit a second order polynomial to the values given below
 
 
